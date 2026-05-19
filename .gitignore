@@ -9,3 +9,7 @@ data/
 data/
 *.zip
 *.csv
+data/
+*.csv
+*.zip
+venv/
