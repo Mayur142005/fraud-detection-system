@@ -73,7 +73,7 @@ Credit Card Fraud Detection Dataset
 
 Clone repository:
 
-git clone YOUR_GITHUB_LINK
+git clone https://github.com/Mayur142005/fraud-detection-system
 
 Move to project:
 
@@ -99,7 +99,7 @@ https://fraud-detection-system-cp7x7bauyzhdcwtkl33kdh.streamlit.app/
 ## 💻 GitHub Repository
 
 Repository:
-(https://github.com/Mayur142005/fraud-detection-system)
+https://github.com/Mayur142005/fraud-detection-system
 
 ---
 
